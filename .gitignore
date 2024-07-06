@@ -178,3 +178,6 @@ third_party/budabackend/verif/template_netlist/netlists/test_datacopy_matmul_3tm
 third_party/budabackend/verif/template_netlist/netlists/test_dram_input_matmul_3tms_and_reblock_grayskull.zip
 third_party/budabackend/verif/tm_tests/directed/bert_large_inference_hifi.yaml
 third_party/budabackend/verif/tm_tests/directed/packer_mcast.tar.gz
+
+# python venv
+.venv
