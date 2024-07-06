@@ -4,7 +4,7 @@
 	branch = pybuda_runtime
 [submodule "third_party/budabackend"]
 	path = third_party/budabackend
-	url = https://github.com/tenstorrent/tt-budabackend.git
+	url = https://github.com/oneofthezombies/tt-budabackend.git
 	branch = main
 [submodule "third_party/pybind11"]
 	path = third_party/pybind11
