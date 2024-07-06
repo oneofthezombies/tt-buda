@@ -55,5 +55,10 @@ def install_docs_dependencies():
         run("brew install texlive")
 
 
+def generate_docs():
+    run("doxygen dev/Doxyfile")
+
+
 init_git_submodule_rec(Path())
 install_docs_dependencies()
+generate_docs()
